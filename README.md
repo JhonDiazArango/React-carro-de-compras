@@ -1,7 +1,7 @@
 # React-carro-de-compras
-Proyecto carro de compras
-Lenguaje: React
-versión de proyecto: 1
+1. Proyecto carro de compras
+2. Lenguaje: React
+3. versión de proyecto: 1
 
 Para instalar/modificar
 1. descarga la carpeta React-carro-de-compras.rar
