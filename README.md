@@ -1,5 +1,5 @@
 # React-carro-de-compras
-1. Proyecto carro de compras
+1. Proyecto carro de compras componentes basados en clases react
 2. Lenguaje: React
 3. versión de proyecto: 1
 
